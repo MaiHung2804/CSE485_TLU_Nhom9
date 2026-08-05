@@ -10,7 +10,7 @@ Project Laravel MVC cho bài thi cuối kỳ cá nhân với chủ đề:
 
 Hiện tại project đã được cấu hình chạy với MySQL của XAMPP và xem dữ liệu bằng phpMyAdmin.
 
-## Phạm vi vòng 1
+Bao gồm các bảng: 
 
 - `users`
 - `sport_types`
